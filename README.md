@@ -17,4 +17,5 @@ Each solution has a corresponding test, that was created using the examples in L
 
 | # | Title | Difficulty |
 |---| ----- | ---------- |
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy |
