@@ -5,7 +5,11 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leetcode-dotnet", "src\leetcode-dotnet\leetcode-dotnet.csproj", "{E06210A5-C04C-46A3-B8A7-605428560520}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode-dotnet-test", "tests\leetcode-dotnet-test\leetcode-dotnet-test.csproj", "{015D9F94-998F-4E34-90DF-C9AE3D65A0BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leetcode-dotnet-test", "tests\leetcode-dotnet-test\leetcode-dotnet-test.csproj", "{015D9F94-998F-4E34-90DF-C9AE3D65A0BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{47507213-B8E9-42DF-9048-AC7FEBDA50F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E4B12F40-3F80-4F73-A2FC-C18345C8579A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +28,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E06210A5-C04C-46A3-B8A7-605428560520} = {47507213-B8E9-42DF-9048-AC7FEBDA50F7}
+		{015D9F94-998F-4E34-90DF-C9AE3D65A0BE} = {E4B12F40-3F80-4F73-A2FC-C18345C8579A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3CDAE183-34E2-4B62-B31A-9152F18F8E20}
