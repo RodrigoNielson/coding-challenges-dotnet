@@ -21,3 +21,4 @@ Each solution has a corresponding test, that was created using the examples in L
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium |
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy |
+|2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Medium |
