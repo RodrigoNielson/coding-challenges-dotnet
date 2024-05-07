@@ -23,3 +23,4 @@ Each solution has a corresponding test, that was created using the examples in L
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium |
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy |
 |2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Medium |
+|2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Medium |
