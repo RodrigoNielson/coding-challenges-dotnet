@@ -20,6 +20,7 @@ Each solution has a corresponding test, that was created using the examples in L
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy |
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium |
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy |
 |2022|[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | Easy |
