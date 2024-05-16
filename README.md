@@ -24,6 +24,7 @@ Each solution has a corresponding test, that was created using the examples in L
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium |
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy |
 |2022|[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | Easy |
+|2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | Easy |
 |2373|[Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | Easy |
 |2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Medium |
 |2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Medium |
