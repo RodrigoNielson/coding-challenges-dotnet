@@ -22,6 +22,8 @@ Each solution has a corresponding test, that was created using the examples in c
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | LeetCode |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | LeetCode |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | LeetCode |
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | LeetCode |
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | LeetCode |
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | LeetCode |
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy | LeetCode |
 |2022|[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | Easy | LeetCode |
