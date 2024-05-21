@@ -16,17 +16,17 @@ Each solution has a corresponding test, that was created using the examples in c
 
 ## Solved problems:
 
-| # | Title | Difficulty |
-|---| ----- | ---------- |
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium |
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy |
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy |
-|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium |
-|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy |
-|2022|[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | Easy |
-|2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | Easy |
-|2373|[Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | Easy |
-|2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Medium |
-|2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Medium |
-|3021|[Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | Medium |
+| # | Title | Difficulty | Platform |
+|---| ----- | ---------- | -------- |
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | LeetCode |
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | LeetCode |
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | LeetCode |
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | LeetCode |
+|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | LeetCode |
+|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | Easy | LeetCode |
+|2022|[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | Easy | LeetCode |
+|2331|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | Easy | LeetCode |
+|2373|[Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | Easy | LeetCode |
+|2487|[Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | Medium | LeetCode |
+|2816|[Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | Medium | LeetCode |
+|3021|[Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | Medium | LeetCode |
